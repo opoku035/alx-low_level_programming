@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Prints all 
+* main - Prints all
 * Only putchar without char variables will be used.
 *
 * Return: Always 0 (success).
