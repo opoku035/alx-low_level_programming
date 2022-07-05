@@ -1,7 +1,6 @@
 #include "main.h"
 #include <ctype.h>
 /**
-*
 * Description: (int c) is used to check results
 *
 * Return: int 0
