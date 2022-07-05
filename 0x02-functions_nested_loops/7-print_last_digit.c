@@ -1,16 +1,24 @@
 #include "main.h"
-
 /**
-* main - body of our code
+*  print_last_digit -  prints the last digit of a number.
 *
-* Return: Always 0 success.
+*  @x: That defines the character to compute
+*
+*  Return: Nothing
 */
-
-int main(void)
-
+int print_last_digit(int x)
 {
-jack_bauer();
+int i;
 
-return (0);
-
+if (x < 0)
+{
+x = -x;
+}
+i = x % 10;
+if (i < 0)
+{
+i = -i;
+}
+_putchar(i + '0');
+return (i);
 }

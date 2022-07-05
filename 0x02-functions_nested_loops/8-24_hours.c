@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - body of our code
+* main - r code
 *
 * Return: Always 0 success.
 */
@@ -9,6 +9,7 @@
 int main(void)
 
 {
+
 jack_bauer();
 
 return (0);
