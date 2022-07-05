@@ -3,7 +3,7 @@
 /**
 *_islower - check for lower case
 *
-*@c : value to be checked 
+*@c : value to be checked
 * Description: (int c) is used to check results
 *
 * Return: int 0
